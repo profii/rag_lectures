@@ -1,0 +1,4 @@
+bitsandbytes
+transformers
+faiss-cpu
+sentence-transformers

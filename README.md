@@ -7,7 +7,6 @@
 | ------------- | ------------- |
 | `query`  | What is the matrix rank definition? |
 | `result`  | The matrix rank definition is the maximal number of linearly independent columns in a matrix, or the dimension of its column space. The matrix rank has a direct connection to the dimension of the column space, and it is a measure of the stability of the matrix. |
-| ------------- | ------------- |
 
 Here `retrieved_chunks` got:
 
